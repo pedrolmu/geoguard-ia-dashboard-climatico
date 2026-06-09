@@ -63,3 +63,14 @@ pytest -q
 3. Demonstrar loading/spinner e cache.
 4. Aprovar ou rejeitar o alerta na aba Decisão humana.
 5. Mostrar rapidamente a arquitetura de pastas e explicar providers, pipelines, features, state e ui.
+## Autorias
+
+Projeto desenvolvido para a Global Solution FIAP 2026/1.
+
+Equipe:
+- Pedro Leal Murad – RM565460
+- Ricardo de Paiva Melo – RM565522
+- Jonas Alaf – RM566479
+
+GitHub:
+https://github.com/pedrolmu/geoguard-ia-dashboard-climatico
